@@ -37,10 +37,8 @@ $ git add .
 $ git add -u
 # this commit your changes. This is now recorded locally on your machine. 
 $ git commit -m "this is a sample commit message"
-$ git 
 # this pushes the code to github on a branch
 $ git push origin -u my-change
-
 # let's take a look at our current state. As you can see from (HEAD -> my-change, origin/my-change)
 # your code is pushed to github!
 $ git branch

@@ -46,7 +46,7 @@ $ git branch
 * my-change
 $ git log
 commit e6efd66ce08828f760a49b22b78fa2d569ff2fee (HEAD -> my-change, origin/my-change)
-Author: guest1 <guest1@hwws.local>
+Author: afrontendperson <95462678+afrontendperson@users.noreply.github.com>
 Date:   Thu Dec 2 21:51:31 2021 -0800
 
     this is a commit message
